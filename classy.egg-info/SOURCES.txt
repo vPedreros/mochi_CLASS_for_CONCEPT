@@ -1,5 +1,6 @@
 CLASS_rename.py
 CPU.py
+LHS.py
 LICENSE
 Makefile
 README.rst
@@ -8,6 +9,7 @@ pyproject.toml
 setup.py
 ./CLASS_rename.py
 ./CPU.py
+./LHS.py
 ./Makefile
 ./__init__.py
 ./setup.py
@@ -137,6 +139,7 @@ classy.egg-info/PKG-INFO
 classy.egg-info/SOURCES.txt
 classy.egg-info/dependency_links.txt
 classy.egg-info/not-zip-safe
+classy.egg-info/requires.txt
 classy.egg-info/top_level.txt
 external/HMcode/hmcode.c
 external/HMcode/hmcode.h

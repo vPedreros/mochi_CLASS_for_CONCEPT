@@ -6,5 +6,10 @@ Home-page: http://www.class-code.net
 Author: Julien Lesgourgues, Thomas Tram, Nils Schöneberg, ... and many more (see webpage)
 Project-URL: Homepage, http://www.class-code.net
 License-File: LICENSE
+Requires-Dist: matplotlib>=3.9.4
+Requires-Dist: pandas>=2.3.3
+Requires-Dist: pip>=26.0.1
+Requires-Dist: scienceplots>=2.2.2
+Requires-Dist: scipy>=1.13.1
 Dynamic: home-page
 Dynamic: license-file
